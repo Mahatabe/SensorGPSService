@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618593264203",
+    "project_id": "sensorgpsservice-f423a",
+    "storage_bucket": "sensorgpsservice-f423a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618593264203:android:6728f5c72572a94dd1e3ce",
+        "android_client_info": {
+          "package_name": "com.example.sensorgpsservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618593264203-fop3obb51rbcf3j2b4nclc5885l44nfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5EBzlOaeyqTlO0Pmw-F07A5v4TMf4T0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618593264203-fop3obb51rbcf3j2b4nclc5885l44nfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
